@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-## git advanced home work 1
-# git_advanced_01
+# git advanced home work 1
+## git_advanced_01
